@@ -1,0 +1,36 @@
+[AppWizard6]
+ApplicationType=0
+MENU_0=+&File|File|+&New|New|+&Open...|Open|+&Close|Close|+[Separator]|[Separator]|+&Save|Save|+Save &As...|SaveAs|+Save A&ll|SaveAll|+[Separator]|[Separator]|+Propert&ies|Properties|+[Separator]|[Separator]|+Page Set&up...|PageSetup|+Print Pre&view|PrintPreview|+&Print...|Print|+[Separator]|[Separator]|+Sen&d...|Send|+[Separator]|[Separator]|+MRU List|MRU|+E&xit|Exit|
+MENUEXP_0=+&File|File|+&Open...|Open|+&Find|Find|+[Separator]|[Separator]|+Sen&d to|SendTo|+[Separator]|[Separator]|+&New|New|+[Separator]|[Separator]|+&Delete|Delete|+Rena&me|Rename|+Propert&ies|Properties|+[Separator]|[Separator]|+MRU List|MRU|+[Separator]|[Separator]|+&Close|Close|
+MENU_1=+&Edit|Edit|+&Undo|Undo|+[Separator]|[Separator]|+Cu&t|Cut|+&Copy|Copy|+&Paste|Paste|+Paste &Special...|PasteSpecial|
+MENUEXP_1=+&Edit|Edit|+&Undo|Undo|+[Separator]|[Separator]|+Cu&t|Cut|+&Copy|Copy|+&Paste|Paste|+Paste &Special...|PasteSpecial|+[Separator]|[Separator]|+Select &All|SelectAll|+&Invert Selection|InvertSelection|
+MENU_2=+&View|View|+&Toolbar|Toolbar|+Status &Bar|StatusBar|+[Separator]|[Separator]|+&Refresh|Refresh|+&Options...|Options|+&Web Browser|WebBrowser|
+MENUEXP_2=+&View|View|+&Toolbar|Toolbar|+Status &Bar|StatusBar|+[Separator]|[Separator]|+ListView Mode|ListViewMode|+[Separator]|[Separator]|+Arrange &Icons|ArrangeIcons|+[Separator]|[Separator]|+&Refresh|Refresh|+&Options...|Options|+&Web Browser|WebBrowser|
+MENU_3=-&Tools|Tools|+&Options...|Options|
+MENU_4=+&Window|Window|+&New Window|NewWindow|+[Separator]|[Separator]|+&Cascade|Cascade|+Tile &Horizontal|TileHorizontal|+Tile &Vertical|TileVertical|+&Arrange Icons|ArrangeIcons|
+MENU_5=+&Help|Help|+&Contents|Contents|+&Search For Help On...|SearchForHelpOn|+[Separator]|[Separator]|+&About |About|
+Internet=Yes
+DefaultURL=http://www.microsoft.com
+Resources=Yes
+OtherForms0=1
+OtherForms1=0
+OtherForms2=1
+OtherForms3=1
+[AppWizard6_ToolbarWizard]
+Toolbar1=New|New|New|
+Toolbar2=Open|Open|Open|
+Toolbar3=Save|Save|Save|
+Toolbar4=|[Separator]||
+Toolbar5=Print|Print|Print|
+Toolbar6=|[Separator]||
+Toolbar7=Cut|Cut|Cut|
+Toolbar8=Copy|Copy|Copy|
+Toolbar9=Paste|Paste|Paste|
+Toolbar10=|[Separator]||
+Toolbar11=Bold|Bold|Bold|
+Toolbar12=Italic|Italic|Italic|
+Toolbar13=Underline|Underline|Underline|
+Toolbar14=|[Separator]||
+Toolbar15=Align Left|Align Left|Align Left|
+Toolbar16=Center|Center|Center|
+Toolbar17=Align Right|Align Right|Align Right|
